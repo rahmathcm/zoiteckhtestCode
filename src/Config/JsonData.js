@@ -13,7 +13,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/is-carrot-good-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/when-can-toddlers-have-raw-carrots/",
             "Nutritional Rating": "4",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Carrot.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Carrot.jpg"
         },
         {
             "Ingredient": "Butternut Squash",
@@ -28,7 +28,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/is-butternut-squash-good-for-the-babys-health/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/can-butternut-squash-cause-constipation-in-babies/",
             "Nutritional Rating": "4",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Butternut Squash.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Butternut Squash.jpg"
         }],
     [
         {
@@ -44,7 +44,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/is-sweet-potato-good-for-the-babys-health/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/health-benefits-of-sweet-potatoes/",
             "Nutritional Rating": "5",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Sweet Potatoes.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Sweet Potatoes.jpg"
         },
         {
             "Ingredient": "Yogurt",
@@ -59,7 +59,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/is-yogurt-good-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/health-benefits-of-yogurt-for-babies/",
             "Nutritional Rating": "5",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Yogurt.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Yogurt.jpg"
         }],
     [
         {
@@ -75,7 +75,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/is-chicken-good-for-the-babys-health/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/health-benefits-of-chicken-to-toddlers/",
             "Nutritional Rating": "5",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Chicken.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Chicken.jpg"
         },
         {
             "Ingredient": "Salmon",
@@ -90,7 +90,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/is-salmon-good-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/things-to-consider-before-feeding-salmon-to-kids/",
             "Nutritional Rating": "5",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Salmon.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Salmon.jpg"
         }],
     [
         {
@@ -106,7 +106,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/is-melon-good-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/nutritional-benefits-of-cantaloupe/",
             "Nutritional Rating": "2",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Melon.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Melon.jpg"
         },
         {
             "Ingredient": "Banana",
@@ -121,7 +121,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/are-bananas-healthy-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/bananas-and-constipation/",
             "Nutritional Rating": "5",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Banana.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Banana.jpg"
         }],
     [
         {
@@ -137,7 +137,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/are-apples-healthy-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/is-apple-juice-good-for-babies/",
             "Nutritional Rating": "3",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Apple.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Apple.jpg"
         },
         {
             "Ingredient": "Strawberries",
@@ -152,7 +152,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/are-strawberries-healthy-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/what-amount-of-strawberries-should-i-feed-my-baby/",
             "Nutritional Rating": "2",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Strawberries.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Strawberries.jpg"
         }],
     [
         {
@@ -168,7 +168,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/are-broccolis-healthy-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/can-broccoli-help-your-baby-poop/",
             "Nutritional Rating": "3",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Broccoli.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Broccoli.jpg"
         },
         {
             "Ingredient": "Egg",
@@ -183,7 +183,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/are-eggs-healthy-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/can-toddlers-eat-eggs-every-day/",
             "Nutritional Rating": "5",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Egg.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Egg.jpg"
         }],
     [
         {
@@ -199,7 +199,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/are-beans-healthy-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/how-to-choose-and-store-your-beans/",
             "Nutritional Rating": "4",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Beans.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Beans.jpg"
         },
         {
             "Ingredient": "Cauliflower",
@@ -214,7 +214,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/are-cauliflowers-healthy-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/how-to-choose-and-store-your-cauliflower/",
             "Nutritional Rating": "3",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Cauliflower.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Cauliflower.jpg"
         }],
     [
         {
@@ -230,7 +230,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/are-avocados-healthy-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/tips-for-feeding-avocado-to-your-kid/",
             "Nutritional Rating": "5",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Avocado.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Avocado.jpg"
         },
         {
             "Ingredient": "Mango",
@@ -245,7 +245,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/are-mangoes-healthy-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/is-mango-juice-good-for-babies/",
             "Nutritional Rating": "5",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Mango.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Mango.jpg"
         }],
     [
         {
@@ -261,7 +261,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/are-potatoes-healthy-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/tips-for-feeding-potatoes-to-your-kid/",
             "Nutritional Rating": "3",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Potato.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Potato.jpg"
         },
         {
             "Ingredient": "Cereal",
@@ -276,7 +276,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/are-cereals-healthy-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/benefits-of-cereals-for-babies/",
             "Nutritional Rating": "3",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Cereal.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Cereal.jpg"
         }],
     [
         {
@@ -292,7 +292,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/are-blueberries-healthy-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/is-blueberry-juice-good-for-babies/",
             "Nutritional Rating": "2",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Blueberries.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Blueberries.jpg"
         },
         {
             "Ingredient": "Spinach",
@@ -307,7 +307,7 @@ const JsonData = [
             "Health & Nutrition": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/is-spinach-healthy-for-babies/",
             "Read More": "https://babyledweaningtipsandfacts.wordpress.com/2022/05/12/how-to-choose-and-store-your-spinach/",
             "Nutritional Rating": "5",
-            "imageUrl": "http://forking.riafy.in/csv-to-api/baby-led-weaning/images/Spinach.jpg"
+            "imageUrl": "https://forking.riafy.in/csv-to-api/baby-led-weaning/images/Spinach.jpg"
         }
     ]
 ]
