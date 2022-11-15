@@ -32,6 +32,17 @@ target 'sample' do
 
   pod 'RNVectorIcons', :path => '../node_modules/react-native-vector-icons'
 
+  pod 'RNCAsyncStorage', :path => '../node_modules/@react-native-async-storage/async-storage'
+
+  pod 'RNDateTimePicker', :path => '../node_modules/@react-native-community/datetimepicker'
+
+  pod 'RNCPushNotificationIOS', :path => '../node_modules/@react-native-community/push-notification-ios'
+
+
+  pod 'react-native-sqlite-storage', :path => '../node_modules/react-native-sqlite-storage'
+
+  pod 'react-native-simple-toast', :path => '../node_modules/react-native-simple-toast'
+
   target 'sampleTests' do
     inherit! :complete
     # Pods for testing
